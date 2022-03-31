@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\ws-bootcamp-bds10\.metadata\.plugins\org.eclipse.jdt.core
